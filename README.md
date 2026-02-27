@@ -51,6 +51,8 @@ Spring Boot веб-приложение с реализацией:
   <figcaption><em>Рис. 2 — Форма регистрации пользователя</em></figcaption>
 </figure>
 
+---
+
 <figure align="center">
   <img src="docs/images/register_light_theme.png" width="800">
   <figcaption><em>Рис. 3 — Светлая тема интерфейса</em></figcaption>
