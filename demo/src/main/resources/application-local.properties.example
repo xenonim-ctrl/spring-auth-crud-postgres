@@ -1,0 +1,13 @@
+spring.application.name=your_name //we have 'demo' as default, but you can change it to your name or something else
+
+spring.datasource.url=jdbc:postgresql://localhost:5432/your_db_name //its a default url, but you can change it to your database url if you have different one
+spring.datasource.username=your_db_name
+spring.datasource.password=YOUR_PASSWORD_HERE
+
+
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.show-sql=true
+spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.PostgreSQLDialect
+
+
+spring.thymeleaf.cache=false
