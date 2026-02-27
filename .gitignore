@@ -13,12 +13,22 @@ target/
 .springBeans
 .sts4-cache
 
+# =========================
+# OS
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Logs
+# =========================
+*.log
 ### secrets ###
 src/main/resources/application-local.properties
 src/main/resources/application-local.yml
 
 ### IntelliJ IDEA ###
-.idea
+.idea/
 *.iws
 *.iml
 *.ipr
