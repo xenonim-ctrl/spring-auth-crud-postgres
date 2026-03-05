@@ -112,7 +112,7 @@ Spring Boot веб-приложение с реализацией:
 ### 1️⃣ Клонирование репозитория
 
 ```bash
-git clone https://github.com/xenonim-ctrl/spring-auth-crud-postgres.git
+git clone https://github.com/xenonim-ctrl/SpringWeb-auth-crud.git
 cd spring-auth-crud-postgres
 ```
 ### 2️⃣ Настройка базы данных
